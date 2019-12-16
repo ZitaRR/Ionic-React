@@ -1,0 +1,10 @@
+.player-wrapper{
+    position: relative;
+    padding-top: 55.5%;
+}
+
+.react-player{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
