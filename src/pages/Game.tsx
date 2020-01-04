@@ -1,4 +1,4 @@
-import {IonPage, IonTitle, IonHeader, IonToolbar, IonItem, IonImg, IonThumbnail, IonCard, IonCardHeader, IonCardTitle, IonCardSubtitle, IonContent, IonIcon, IonLabel, IonCardContent, IonGrid, IonCol, IonRow, IonList} from '@ionic/react'
+import {IonPage, IonItem, IonCard, IonCardHeader, IonCardTitle, IonCardSubtitle, IonContent, IonLabel, IonCardContent, IonGrid, IonCol, IonRow, IonList} from '@ionic/react'
 import React, { useState } from 'react';
 import { RouteComponentProps } from 'react-router';
 import ReactPlayer from 'react-player';
