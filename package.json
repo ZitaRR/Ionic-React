@@ -19,7 +19,7 @@
     "react-player": "^1.14.2",
     "react-router": "^5.1.0",
     "react-router-dom": "^5.1.0",
-    "react-scripts": "^3.3.0",
+    "react-scripts": "^5.0.1",
     "typescript": "3.6.3"
   },
   "scripts": {
